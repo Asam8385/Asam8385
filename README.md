@@ -135,12 +135,38 @@ University of Ruhuna | 2021 - 2025 | GPA: 3.75 / 4.0
 ## 📈 GitHub Stats
 
 <div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Asam8385&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asam8385&layout=compact&theme=tokyonight&hide_border=false&langs_count=8" alt="Top Languages" height="180"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Asam8385&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Asam8385&theme=tokyonight&hide_border=false&layout=compact" alt="WakaTime Stats" width="48%"/>
+
+</div>
+
+<div align="center">
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Asam8385&theme=tokyo-night&hide_border=false&area=true)
+
+</div>
+
+<div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Asam8385&show_icons=true&theme=radical&hide_border=true&count_private=true)
+![Profile Views](https://komarev.com/ghpvc/?username=Asam8385&color=blueviolet&style=flat-square&label=Profile+Views)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Asam8385&layout=compact&theme=radical&hide_border=true)
+</div>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Asam8385&theme=radical&hide_border=true)
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Asam8385&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1)
 
 </div>
 
