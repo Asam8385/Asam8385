@@ -4,12 +4,14 @@
   
 ### Data Engineer | Python Developer | Cloud Enthusiast
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed%20Asam-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mohamed-asam-733768203/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-asamsm.vercel.app-green?style=flat&logo=vercel)](https://asamsm.vercel.app/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-Eg__2020__3833-2EC866?style=flat&logo=hackerrank)](https://www.hackerrank.com/profile/Eg_2020_3833)
-[![LeetCode](https://img.shields.io/badge/LeetCode-subairasam-FFA116?style=flat&logo=leetcode)](https://leetcode.com/u/subairasam8733260/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-asam-733768203/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://asamsm.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Asam8385)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/Eg_2020_3833)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/subairasam8733260/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asam.engen8385@gmail.com)
 
-📍 Colombo, Sri Lanka | 📧 asam.engen8385@gmail.com
+📍 Colombo, Sri Lanka
 
 </div>
 
@@ -62,26 +64,39 @@ data_engineer = {
 ### Technologies & Tools
 
 **Data Engineering**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
-![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat&logo=apachehadoop&logoColor=black)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
+
+**Programming Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 
 **Databases**  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![TiDB](https://img.shields.io/badge/TiDB-FF6600?style=flat&logo=tidb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![TiDB](https://img.shields.io/badge/TiDB-FF6600?style=for-the-badge&logo=database&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 **Cloud Platforms**  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
 
 **DevOps & Tools**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=flat&logo=gitlab&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
@@ -134,41 +149,48 @@ University of Ruhuna | 2021 - 2025 | GPA: 3.75 / 4.0
 
 ## 📈 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Asam8385&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asam8385&layout=compact&theme=tokyonight&hide_border=false&langs_count=8" alt="Top Languages" height="170"/>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Asam8385&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asam8385&layout=compact&theme=tokyonight&hide_border=false&langs_count=8" alt="Top Languages" height="180"/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Asam8385&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
+</p>
 
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Asam8385&theme=tokyonight&hide_border=false" alt="GitHub Streak" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=Asam8385&theme=tokyonight&hide_border=false&layout=compact" alt="WakaTime Stats" width="48%"/>
-
-</div>
-
-<div align="center">
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Asam8385&theme=tokyo-night&hide_border=false&area=true)
-
-</div>
-
-<div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=Asam8385&color=blueviolet&style=flat-square&label=Profile+Views)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Asam8385&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution Graph"/>
+</p>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Asam8385&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies"/>
+</p>
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Asam8385&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1)
+---
 
-</div>
+## 📊 Detailed Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Asam8385&theme=tokyonight" alt="Profile Details"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Asam8385&theme=tokyonight" alt="Repos per Language" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Asam8385&theme=tokyonight" alt="Most Commit Language" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Asam8385&theme=tokyonight" alt="Stats" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Asam8385&theme=tokyonight" alt="Productive Time" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Asam8385&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
+</p>
 
 ---
 
