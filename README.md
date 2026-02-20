@@ -19,7 +19,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Engineer** with hands-on experience in building scalable data pipelines, workflow orchestration, and cloud-based data solutions. I specialize in designing ETL systems, optimizing data workflows, and creating robust data infrastructure that powers analytics and data-driven decision-making.I have solid experience building **microservice-based backends** using Python's WSGI and ASGI frameworks — including **Django**, **FastAPI**, and **Flask** — designing service-to-service communication patterns, REST APIs, and asynchronous request handling for high-throughput applications.
+I'm a passionate **Engineer** with hands-on experience in building scalable data pipelines, workflow orchestration, and cloud-based data solutions. I specialize in designing ETL systems, optimizing data workflows, and creating robust data infrastructure that powers analytics and data-driven decision-making.I have solid experience building **microservice-based backends** using Python's WSGI and ASGI frameworks including **Django**, **FastAPI**, and **Flask** designing service-to-service communication patterns, REST APIs, and asynchronous request handling for high-throughput applications.
 
 Currently leveraging my expertise in **Python, Apache Airflow, WSGI/ASGI frameworks, and cloud platforms** to build efficient data pipelines and scalable backend services.
 
