@@ -2,7 +2,7 @@
 
 <div align="center">
   
-### Data Engineer | Python Developer | Cloud Enthusiast
+###  Python Developer | Data Engineer  | Cloud Enthusiast
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-asam-733768203/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://asamsm.vercel.app/)
@@ -19,9 +19,9 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Engineer** with hands-on experience in building scalable data pipelines, workflow orchestration, and cloud-based data solutions. I specialize in designing ETL systems, optimizing data workflows, and creating robust data infrastructure that powers analytics and data-driven decision-making.
+I'm a passionate **Engineer** with hands-on experience in building scalable data pipelines, workflow orchestration, and cloud-based data solutions. I specialize in designing ETL systems, optimizing data workflows, and creating robust data infrastructure that powers analytics and data-driven decision-making.I have solid experience building **microservice-based backends** using Python's WSGI and ASGI frameworks — including **Django**, **FastAPI**, and **Flask** — designing service-to-service communication patterns, REST APIs, and asynchronous request handling for high-throughput applications.
 
-Currently leveraging my expertise in **Python, Apache Airflow, Hadoop**, and cloud platforms to build efficient data pipelines and solve complex data engineering challenges.
+Currently leveraging my expertise in **Python, Apache Airflow, WSGI/ASGI frameworks, and cloud platforms** to build efficient data pipelines and scalable backend services.
 
 ---
 
@@ -44,7 +44,7 @@ Currently leveraging my expertise in **Python, Apache Airflow, Hadoop**, and clo
 **Python Developer Intern @ Octobus BI** *(Feb 2024 - May 2024)*
 - Built ETL pipelines for data extraction and transformation from multiple sources
 - Worked with Azure Data Warehouse and Azure Data Lake for cloud data storage solutions
-- Developed data processing workflows for cloud resource analytics and reporting
+- Developed data processing workflows for cloud resource analytics
 
 ---
 
@@ -59,6 +59,7 @@ data_engineer = {
     "big_data": ["Hadoop", "HDFS", "Batch Processing"],
     "databases": ["MySQL", "TiDB", "PostgreSQL"],
     "task_queuing": ["Celery", "Redis", "Asynchronous Processing"],
+    "backend": ["Microservices", "REST APIs", "WSGI (Django, Flask, Gunicorn)", "ASGI (FastAPI, Uvicorn, Daphne)"],
     "cloud": {
         "azure": ["Data Warehouse", "Data Lake"],
         "aws": ["S3", "Lambda", "EC2", "Athena"],
@@ -79,6 +80,13 @@ data_engineer = {
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+
+**Backend & Microservices (WSGI / ASGI)**  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Uvicorn](https://img.shields.io/badge/Uvicorn-2C2C2C?style=for-the-badge&logo=python&logoColor=green)
+![Gunicorn](https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white)
 
 **Programming Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
