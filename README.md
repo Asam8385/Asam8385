@@ -2,7 +2,7 @@
 
 <div align="center">
   
-### Python Developer | Data Engineer | Cloud Enthusiast 
+### Data Engineer | Python Developer | Cloud Enthusiast
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-asam-733768203/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://asamsm.vercel.app/)
@@ -19,13 +19,20 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Data Engineer** with hands-on experience in building scalable data pipelines, workflow orchestration, and cloud-based data solutions. I specialize in designing ETL systems, optimizing data workflows, and creating robust data infrastructure that powers analytics and data-driven decision-making.
+I'm a passionate **Engineer** with hands-on experience in building scalable data pipelines, workflow orchestration, and cloud-based data solutions. I specialize in designing ETL systems, optimizing data workflows, and creating robust data infrastructure that powers analytics and data-driven decision-making.
 
 Currently leveraging my expertise in **Python, Apache Airflow, Hadoop**, and cloud platforms to build efficient data pipelines and solve complex data engineering challenges.
 
 ---
 
 ## 💼 Professional Experience
+
+**Python & Data Engineer (Final Year Industry Project) @ CodeGen** *(Feb 2025 – Dec 2025)*
+- Stored and managed sensor data in Azure Data Lake for future model optimization and analytics
+- Orchestrated sensor data collection pipelines using Apache Airflow for automated workflows
+- Developed and deployed data on Data Warehouse and performed analytical queries
+- Implemented lane detection algorithms using computer vision and image processing techniques
+- Created batch data ingestion pipelines using Kafka to Azure Real Time Hub
 
 **Associate Data Engineer @ PickMe** *(May 2024 - Dec 2024)*
 - Designed and maintained ETL pipelines using Python to extract, transform, and load data from Appsflyer into AWS S3
@@ -71,6 +78,7 @@ data_engineer = {
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 
 **Programming Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -105,6 +113,10 @@ data_engineer = {
 ### 🔄 ETL Pipeline with Airflow
 Designed and orchestrated ETL pipeline using Apache Airflow to extract, transform, and load data from Appsflyer into AWS S3 for analytics.
 - **Tech Stack:** Python, Apache Airflow, AWS S3, Data Processing
+
+### 🚗 Lane Detection & Sensor Data Pipeline
+Implemented lane detection algorithms using computer vision and image processing, with sensor data ingested via Kafka to Azure Real Time Hub and stored in Azure Data Lake.
+- **Tech Stack:** Python, Apache Kafka, Azure Data Lake, Azure Real Time Hub, OpenCV
 
 ### 🏢 Data Warehouse Solution
 Built data warehouse architecture using Azure Data Warehouse and Data Lake for centralized analytics and reporting.
