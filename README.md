@@ -256,15 +256,15 @@ GPA: 3.75 / 4.00
 
 <br/>
 
-## 🐍 Contribution Snake
+## 🔥 Streak & Trophies
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Asam8385/Asam8385/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Asam8385/Asam8385/output/github-contribution-grid-snake.svg">
-  <img width="100%" alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Asam8385/Asam8385/output/github-contribution-grid-snake.svg">
-</picture>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Asam8385&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Asam8385&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
 
 </div>
 
