@@ -241,32 +241,12 @@ GPA: 3.75 / 4.00
 
 <br/>
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Asam8385&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asam8385&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
-
-<br/>
 
 <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Asam8385&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution Graph"/>
 
 </div>
 
 <br/>
-
-## 🔥 Streak & Trophies
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Asam8385&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Asam8385&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
-
-</div>
 
 <br/>
 
