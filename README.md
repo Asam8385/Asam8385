@@ -1,15 +1,22 @@
-# Hi there, I'm Asam Mohamed 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=260&section=header&text=Mohamed%20Asam&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Agentic%20AI%20Developer%20%7C%20LLM%20%26%20RAG%20Engineer&descAlignY=58&descSize=18" alt="Mohamed Asam Header"/>
 
 <div align="center">
-  
-###  Python Developer | Data Engineer  | Cloud Enthusiast
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-asam-733768203/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://asamsm.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Asam8385)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/Eg_2020_3833)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/subairasam8733260/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asam.engen8385@gmail.com)
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=900&lines=Agentic+AI+Developer;Building+LangGraph+Multi-Agent+Systems;Hybrid+RAG+%7C+Azure+AI+Foundry+%7C+MCP;FastAPI+%7C+LLM+Applications+%7C+Computer+Vision;Creating+AI+Agents+That+Reason%2C+Act%2C+and+Report" alt="Typing SVG"/>
+</a>
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-asam-733768203/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://asamsm.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Asam8385)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asam.engen8385@gmail.com)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Asam8385&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS)
+![GitHub Followers](https://img.shields.io/github/followers/Asam8385?style=for-the-badge&logo=github&label=FOLLOWERS&color=0891B2)
 
 📍 Colombo, Sri Lanka
 
@@ -17,219 +24,437 @@
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-I'm a passionate **Engineer** with hands-on experience in building scalable data pipelines, workflow orchestration, and cloud-based data solutions. I specialize in designing ETL systems, optimizing data workflows, and creating robust data infrastructure that powers analytics and data-driven decision-making.I have solid experience building **microservice-based backends** using Python's WSGI and ASGI frameworks including **Django**, **FastAPI**, and **Flask** designing service-to-service communication patterns, REST APIs, and asynchronous request handling for high-throughput applications.
+I am an **Agentic AI Developer and Python Engineer** focused on designing intelligent systems that can retrieve knowledge, reason through tasks, use external tools, validate results, and produce structured outputs.
 
-Currently leveraging my expertise in **Python, Apache Airflow, WSGI/ASGI frameworks, and cloud platforms** to build efficient data pipelines and scalable backend services.
+My current work focuses on:
+
+- Building stateful multi-agent applications with **LangGraph**
+- Developing LLM-powered workflows using **LangChain**
+- Integrating models through **Azure AI Foundry**
+- Creating hybrid RAG systems using dense embeddings, BM25, RRF, and Qdrant
+- Connecting agents to external capabilities through **Model Context Protocol**
+- Serving production-oriented AI workflows through asynchronous **FastAPI**
+- Creating structured agent communication using **Pydantic**
+- Developing computer-vision systems using CNNs, OpenCV, and ROS
+
+I am particularly interested in AI systems where agents do more than generate text—they retrieve trusted context, execute approved actions, validate technical evidence, and produce useful real-world results.
+
+> 🔐 Current focus: Building scope-controlled AI agents for authorized vulnerability assessment and professional security reporting.
+
+---
+
+## 🧠 AI Engineering Profile
+
+```python
+agentic_ai_developer = {
+    "agent_orchestration": [
+        "LangGraph",
+        "LangChain",
+        "Stateful Workflows",
+        "Multi-Agent Systems",
+    ],
+    "retrieval": [
+        "Hybrid RAG",
+        "Dense Embeddings",
+        "BM25",
+        "Reciprocal Rank Fusion",
+        "Qdrant",
+    ],
+    "model_platforms": [
+        "Azure AI Foundry",
+        "Azure OpenAI",
+        "Hugging Face",
+    ],
+    "tool_integration": [
+        "Model Context Protocol",
+        "Structured Tool Calling",
+        "External Function Execution",
+    ],
+    "ai_backend": [
+        "FastAPI",
+        "Pydantic",
+        "AsyncIO",
+        "Server Lifespan Management",
+    ],
+    "applied_ai": [
+        "Computer Vision",
+        "CNNs",
+        "OpenCV",
+        "ROS",
+    ],
+}
+```
 
 ---
 
 ## 💼 Professional Experience
 
-**Python & Data Engineer (Final Year Industry Project) @ CodeGen** *(Feb 2025 – Dec 2025)*
-- Stored and managed sensor data in Azure Data Lake for future model optimization and analytics
-- Orchestrated sensor data collection pipelines using Apache Airflow for automated workflows
-- Developed and deployed data on Data Warehouse and performed analytical queries
-- Implemented lane detection algorithms using computer vision and image processing techniques
-- Created batch data ingestion pipelines using Kafka to Azure Real Time Hub
+### 🤖 Agentic AI Developer — UOWN
 
-**Associate Data Engineer @ PickMe** *(May 2024 - Dec 2024)*
-- Designed and maintained ETL pipelines using Python to extract, transform, and load data from Appsflyer into AWS S3
-- Implemented workflow orchestration using Apache Airflow for scheduling and monitoring data pipelines
-- Worked with Hadoop ecosystem for large-scale batch data processing and analytics
-- Built data APIs using Python and Golang to support data integration
-- Managed TiDB and MySQL for horizontally scalable database solutions
+**Feb 2026 – Aug 2026 · Dubai · Remote**
 
-**Python Developer Intern @ Octobus BI** *(Feb 2024 - May 2024)*
-- Built ETL pipelines for data extraction and transformation from multiple sources
-- Worked with Azure Data Warehouse and Azure Data Lake for cloud data storage solutions
-- Developed data processing workflows for cloud resource analytics
+Built an AI-powered vulnerability assessment assistant for approved and authorized domains.
+
+- Designed a sequential multi-agent workflow using **LangGraph**
+- Created a security-testing agent for retrieval, planning, tool execution, and evidence collection
+- Developed a reporting agent for converting validated evidence into structured vulnerability reports
+- Built a hybrid retrieval pipeline combining dense embeddings, BM25, RRF, and Qdrant
+- Integrated LLM capabilities through **Azure AI Foundry**
+- Designed MCP integrations for security-testing tools and PDF report generation
+- Implemented typed workflow state and agent handoffs using Pydantic
+- Added target-scope and authorization validation before tool execution
+- Created evidence-validation and retry stages to reduce unsupported findings
+- Exposed the workflow through asynchronous FastAPI endpoints
+- Kept dense and sparse embedding models loaded throughout the server lifecycle
+- Generated structured findings and professional PDF security reports
+
+The system can operate as an AI security assistant or automate approved vulnerability-discovery workflows while enforcing authorization and target-scope controls.
 
 ---
 
-## 🛠️ Technical Stack
+### 🚗 Python Developer — VEGA
 
-### Core Skills
-```python
-data_engineer = {
-    "languages": ["Python", "SQL", "Golang", "Shell/Bash"],
-    "data_engineering": ["ETL Pipelines", "Data Processing", "Data Modeling", "Data Transformation"],
-    "orchestration": ["Apache Airflow", "Task Scheduling", "Pipeline Automation"],
-    "big_data": ["Hadoop", "HDFS", "Batch Processing"],
-    "databases": ["MySQL", "TiDB", "PostgreSQL"],
-    "task_queuing": ["Celery", "Redis", "Asynchronous Processing"],
-    "backend": ["Microservices", "REST APIs", "WSGI (Django, Flask, Gunicorn)", "ASGI (FastAPI, Uvicorn, Daphne)"],
-    "cloud": {
-        "azure": ["Data Warehouse", "Data Lake"],
-        "aws": ["S3", "Lambda", "EC2", "Athena"],
-        "gcp": ["Cloud Storage", "BigQuery"]
-    },
-    "devops": ["Docker", "Kubernetes", "GitLab CI/CD", "Jenkins", "Git"]
-}
+**Feb 2025 – Dec 2025 · Sri Lanka · Remote**
+
+Worked on Level 2 autonomous-driving and driver-assistance capabilities.
+
+- Developed and deployed CNN-based models as ROS nodes
+- Implemented lane-detection pipelines using OpenCV and image-processing techniques
+- Created lane-direction detection to support cruise-control functionality
+- Built real-time image-processing pipelines for autonomous-driving scenarios
+- Integrated vision-model outputs with ROS-based components
+- Tested and improved perception accuracy under different road conditions
+- Contributed to an applied AI system combining machine learning, vision, and robotics
+
+---
+
+### 🧪 Associate Software Engineer — Data and R&D — PickMe
+
+**Jun 2024 – Jan 2025 · Sri Lanka · On-site**
+
+- Developed Python and Go services for research-oriented and production use cases
+- Built and maintained backend APIs and reusable software components
+- Worked with asynchronous and distributed processing patterns
+- Participated in technical research, experimentation, debugging, and optimization
+- Collaborated on scalable software solutions for real-world systems
+
+---
+
+### 🐍 Python Developer Intern — Octopus BI
+
+**Jan 2024 – May 2024 · Sri Lanka · Remote**
+
+- Developed Python automation and backend components
+- Implemented reusable modules and service integrations
+- Worked with API integrations, validation, debugging, and testing
+- Contributed to maintainable Python-based applications
+
+---
+
+## 🔐 Featured Agentic AI Project
+
+### AI-Powered Vulnerability Assessment System
+
+A scope-controlled multi-agent application for retrieving security knowledge, performing approved vulnerability checks, validating technical evidence, and generating professional reports.
+
+#### Core capabilities
+
+- Validates the authorized assessment scope before execution
+- Retrieves relevant security knowledge through hybrid search
+- Generates context-aware security-testing plans
+- Invokes approved tools through MCP integrations
+- Collects and normalizes technical evidence
+- Rejects findings without sufficient supporting evidence
+- Produces structured vulnerability findings
+- Generates professional PDF reports
+- Maintains reusable model instances for low-latency requests
+- Supports integration with FastAPI applications
+
+#### Technology stack
+
+`LangGraph` · `LangChain` · `Azure AI Foundry` · `FastAPI` · `Qdrant` · `BM25` · `Dense Embeddings` · `RRF` · `MCP` · `Pydantic` · `Python`
+
+---
+
+## 🏗️ Multi-Agent Architecture
+
+```mermaid
+flowchart TD
+    A["Authorized Assessment Request"] --> B["Scope and Authorization Validation"]
+
+    B -->|Approved| C["Security Testing Agent"]
+    B -->|Rejected| X["Stop Assessment"]
+
+    C --> D["Hybrid Knowledge Retrieval"]
+    D --> D1["Dense Vector Search"]
+    D --> D2["BM25 Sparse Search"]
+    D1 --> D3["Reciprocal Rank Fusion"]
+    D2 --> D3
+
+    D3 --> E["Testing Plan Generation"]
+    E --> F["Approved Tools and Testing MCP"]
+    F --> G["Evidence Collection"]
+
+    G --> H{"Evidence Valid?"}
+    H -->|No| I["Retry or Request More Evidence"]
+    I --> C
+
+    H -->|Yes| J["Structured Vulnerability Findings"]
+    J --> K["Vulnerability Report Agent"]
+    K --> L["PDF Creator MCP"]
+    L --> M["Validated Professional Report"]
 ```
 
-### Technologies & Tools
+### Agent responsibilities
 
-**Data Engineering**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Backend & Microservices (WSGI / ASGI)**  
+#### 🔎 Security Testing Agent
+
+- Validates the assessment context
+- Retrieves relevant security knowledge
+- Produces an authorized testing plan
+- Selects appropriate approved tools
+- Executes tools through MCP
+- Collects technical evidence
+- Validates observed results
+- Produces structured findings
+
+</td>
+<td width="50%" valign="top">
+
+#### 📄 Vulnerability Report Agent
+
+- Receives validated findings
+- Organizes technical evidence
+- Produces severity and impact summaries
+- Generates remediation recommendations
+- Builds a structured report payload
+- Invokes the PDF Creator MCP
+- Validates the generated report
+- Returns the final report artifact
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🔍 Hybrid RAG Architecture
+
+```mermaid
+flowchart LR
+    Q["Security Query"] --> E["Dense Embedding Model"]
+    Q --> B["BM25 Sparse Model"]
+
+    E --> V["Qdrant Vector Search"]
+    B --> S["Sparse Search"]
+
+    V --> R["Reciprocal Rank Fusion"]
+    S --> R
+
+    R --> C["Ranked Security Context"]
+    C --> A["Security Testing Agent"]
+```
+
+The dense and sparse retrieval models are initialized during the FastAPI application lifespan and remain available until the server shuts down. This avoids repeatedly loading the models for every assessment request.
+
+---
+
+## 🚀 Featured AI Projects
+
+### 🔐 Agentic Vulnerability Assessment Assistant
+
+Built a LangGraph-based multi-agent application that retrieves security knowledge, performs scope-controlled checks, validates evidence, and creates professional vulnerability reports.
+
+**Technologies:** LangGraph, LangChain, Azure AI Foundry, FastAPI, MCP, Pydantic
+
+---
+
+### 🔎 Hybrid Security Knowledge Retrieval
+
+Developed a hybrid retrieval system that combines semantic embeddings with BM25 keyword retrieval and Reciprocal Rank Fusion.
+
+**Technologies:** Qdrant, Dense Embeddings, BM25, RRF, Python
+
+---
+
+### 📄 AI Vulnerability Reporting Agent
+
+Created a dedicated reporting agent that converts validated findings into structured report payloads and communicates with a PDF Creator MCP server.
+
+**Technologies:** LangGraph, Structured Outputs, Pydantic, MCP, PDF Generation
+
+---
+
+### 🚗 Autonomous Driving Vision System
+
+Developed CNN and computer-vision capabilities for lane detection and lane-direction estimation, deploying models as ROS nodes for Level 2 autonomous-driving scenarios.
+
+**Technologies:** Python, PyTorch, OpenCV, CNN, ROS
+
+---
+
+### ⚡ Persistent AI Model Lifecycle
+
+Designed a FastAPI application lifecycle that initializes dense and sparse retrieval models once during server startup and reuses them for subsequent requests.
+
+**Technologies:** FastAPI Lifespan, AsyncIO, Embedding Models, Dependency Management
+
+---
+
+## 🛠️ AI Technology Stack
+
+### Agentic AI and LLM Engineering
+
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Azure AI Foundry](https://img.shields.io/badge/Azure_AI_Foundry-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=for-the-badge&logo=openai&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![MCP](https://img.shields.io/badge/Model_Context_Protocol-111827?style=for-the-badge)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+### Retrieval-Augmented Generation
+
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white)
+![RAG](https://img.shields.io/badge/Hybrid_RAG-6C63FF?style=for-the-badge)
+![BM25](https://img.shields.io/badge/BM25-Sparse_Retrieval-0F766E?style=for-the-badge)
+![Embeddings](https://img.shields.io/badge/Dense_Embeddings-7C3AED?style=for-the-badge)
+![RRF](https://img.shields.io/badge/Reciprocal_Rank_Fusion-0369A1?style=for-the-badge)
+
+### AI Application Development
+
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Uvicorn](https://img.shields.io/badge/Uvicorn-2C2C2C?style=for-the-badge&logo=python&logoColor=green)
-![Gunicorn](https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+![AsyncIO](https://img.shields.io/badge/AsyncIO-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
+![Structured Output](https://img.shields.io/badge/Structured_Output-4F46E5?style=for-the-badge)
 
-**Programming Languages**  
+### Machine Learning and Computer Vision
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![CNN](https://img.shields.io/badge/CNN-Deep_Learning-FF6F00?style=for-the-badge)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### Programming and Engineering
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-
-**Databases**  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![TiDB](https://img.shields.io/badge/TiDB-FF6600?style=for-the-badge&logo=database&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-**Cloud Platforms**  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Amazon S3](https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
-
-**DevOps & Tools**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-## 📊 Featured Projects
+## 🧭 Engineering Principles
 
-### 🔄 ETL Pipeline with Airflow
-Designed and orchestrated ETL pipeline using Apache Airflow to extract, transform, and load data from Appsflyer into AWS S3 for analytics.
-- **Tech Stack:** Python, Apache Airflow, AWS S3, Data Processing
-
-### 🚗 Lane Detection & Sensor Data Pipeline
-Implemented lane detection algorithms using computer vision and image processing, with sensor data ingested via Kafka to Azure Real Time Hub and stored in Azure Data Lake.
-- **Tech Stack:** Python, Apache Kafka, Azure Data Lake, Azure Real Time Hub, OpenCV
-
-### 🏢 Data Warehouse Solution
-Built data warehouse architecture using Azure Data Warehouse and Data Lake for centralized analytics and reporting.
-- **Tech Stack:** Azure Data Warehouse, Azure Data Lake, SQL
-
-### 🐘 Hadoop Batch Processing
-Implemented batch data processing workflows using Hadoop ecosystem for large-scale data analytics.
-- **Tech Stack:** Hadoop, HDFS, Python, Big Data
-
-### ⚡ Task Queue System
-Developed task queueing system for asynchronous job processing and scheduled pipeline execution.
-- **Tech Stack:** Python, Celery, Redis, Task Scheduling
-
-### 🗄️ Database Optimization
-Worked on TiDB and MySQL database optimization for horizontal scaling and improved query performance.
-- **Tech Stack:** TiDB, MySQL, SQL, Performance Tuning
+- Define explicit state contracts between agents
+- Use structured outputs instead of unvalidated free-form responses
+- Keep authorization and scope checks before tool execution
+- Require technical evidence before accepting a finding
+- Separate execution responsibilities from report generation
+- Maintain observable and recoverable workflow states
+- Reuse expensive model instances through application lifecycle management
+- Design tool integrations with validation, timeout, and retry controls
+- Keep humans involved when actions require approval or judgment
 
 ---
 
 ## 🎓 Education
 
-**BSc (Hons) in Computer Science Engineering**  
-University of Ruhuna | 2021 - 2025 | GPA: 3.75 / 4.0
+### BSc (Hons) in Computer Science Engineering
+
+**University of Ruhuna · 2021 – 2025**
+
+**GPA:** 3.75 / 4.00
 
 ---
 
 ## 🏆 Certifications
 
-- **Deep Learning Specialization** - DeepLearning.AI
-- **Full-Stack Developer with Django** - Meta
-- **Kubernetes and Cloud Native Associate (KCNA)** - CNCF
-- **Software Engineering Role Certification** - HackerRank
+- **Deep Learning Specialization** — DeepLearning.AI
+- **Full-Stack Developer with Django** — Meta
+- **Kubernetes and Cloud Native Associate** — CNCF
+- **Software Engineering Role Certification** — HackerRank
 
 ---
 
-## 🏅 Awards & Achievements
+## 🏅 Awards and Achievements
 
-- 🥈 **1st Runner Up** - CodeRally 6.0 Coding Competition (Sep 2025)
-- 🥉 **2nd Runner Up** - Haxtreme 2.0 Coding Competition (Oct 2023)
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Asam8385&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asam8385&layout=compact&theme=tokyonight&hide_border=false&langs_count=8" alt="Top Languages" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Asam8385&theme=tokyonight&hide_border=false" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Asam8385&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution Graph"/>
-</p>
+- 🥈 **1st Runner-Up** — CodeRally 6.0 Coding Competition, September 2025
+- 🥉 **2nd Runner-Up** — Haxtreme 2.0 Coding Competition, October 2023
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Asam8385&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies"/>
-</p>
-
----
-
-## 📊 Detailed Stats
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Asam8385&theme=tokyonight" alt="Profile Details"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Asam8385&theme=tokyonight" alt="Repos per Language" width="48%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Asam8385&theme=tokyonight" alt="Most Commit Language" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Asam8385&theme=tokyonight" alt="Stats" width="48%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Asam8385&theme=tokyonight" alt="Productive Time" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Asam8385&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
-</p>
-
----
-
-## 🤝 Let's Connect!
-
-I'm always interested in collaborating on data engineering projects, discussing ETL pipelines, cloud architecture, or anything related to data infrastructure. Feel free to reach out!
-
-- 💼 LinkedIn: [Mohamed Asam](https://www.linkedin.com/in/mohamed-asam-733768203/)
-- 🌐 Portfolio: [asamsm.vercel.app](https://asamsm.vercel.app/)
-- 📧 Email: asam.engen8385@gmail.com
-- 💻 HackerRank: [Eg_2020_3833](https://www.hackerrank.com/profile/Eg_2020_3833)
-- 🔗 LeetCode: [subairasam](https://leetcode.com/u/subairasam8733260/)
-
----
+## 📊 GitHub Analytics
 
 <div align="center">
 
-### 💡 "Building robust data pipelines, one transformation at a time"
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=Asam8385&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="Mohamed Asam GitHub Statistics"/>
 
-⭐️ From [Asam8385](https://github.com/Asam8385)
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asam8385&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Mohamed Asam Most Used Languages"/>
 
 </div>
+
+<br/>
+
+<div align="center">
+
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Asam8385&theme=tokyo-night&hide_border=true&area=true&custom_title=Mohamed%20Asam's%20Contribution%20Graph" alt="GitHub Contribution Graph"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Journey
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Asam8385/Asam8385/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Asam8385/Asam8385/output/github-contribution-grid-snake.svg">
+  <img width="100%" alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Asam8385/Asam8385/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+---
+
+## 🤝 Let's Build Intelligent Systems
+
+I am interested in collaborating on:
+
+- Agentic AI applications
+- LangGraph and LangChain workflows
+- Retrieval-Augmented Generation systems
+- Azure AI Foundry solutions
+- Model Context Protocol integrations
+- LLM evaluation and evidence validation
+- AI-powered security applications
+- Applied computer vision
+- Production-oriented FastAPI AI services
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/Let's_Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-asam-733768203/)
+[![Portfolio](https://img.shields.io/badge/View_My-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://asamsm.vercel.app/)
+[![Email](https://img.shields.io/badge/Send_Me-An_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:asam.engen8385@gmail.com)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/Eg_2020_3833)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/subairasam8733260/)
+
+<br/><br/>
+
+### 💡 Building intelligent agents that retrieve, reason, act, validate, and report.
+
+⭐ From [Asam8385](https://github.com/Asam8385)
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="Animated Footer"/>
