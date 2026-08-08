@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:1E293B&height=220&text=Mohamed%20Asam&fontSize=58&fontColor=00D9FF&fontAlignY=42&desc=Agentic%20AI%20Developer%20%E2%80%A2%20LLM%20%26%20RAG%20Engineer&descAlignY=65&descSize=20&descColor=E2E8F0" alt="Mohamed Asam Banner" width="100%"/>
+# Mohamed Asam
 
-<br/>
+### Agentic AI Developer • LLM & RAG Engineer
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=800&lines=Agentic+AI+Developer;LangGraph+Multi-Agent+Systems;Hybrid+RAG+%7C+Azure+AI+Foundry+%7C+MCP;FastAPI+%7C+LLM+Applications+%7C+Computer+Vision" alt="Typing SVG"/>
 
-<br/><br/>
+<br/>
 
 <a href="https://www.linkedin.com/in/mohamed-asam-733768203/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://asamsm.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
@@ -291,5 +291,3 @@ Open to collaborating on:
 ⭐ From [Asam8385](https://github.com/Asam8385)
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E293B,100:0F172A&height=100" width="100%"/>
