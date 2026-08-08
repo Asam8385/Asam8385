@@ -33,7 +33,7 @@ I'm an **Agentic AI Developer & Python Engineer** who designs intelligent system
 - 🧩 Stateful multi-agent applications with **LangGraph**
 - 🔗 LLM-powered workflows using **LangChain**
 - ☁️ Model integration through **Azure AI Foundry**
-- 🔍 Hybrid RAG - dense embeddings, BM25, RRF, and **Qdrant**
+- 🔍 Hybrid RAG — dense embeddings, BM25, RRF, and **Qdrant**
 - 🛠️ Tool access for agents via **Model Context Protocol (MCP)**
 - ⚡ Production AI services with asynchronous **FastAPI**
 - 📐 Structured agent communication with **Pydantic**
@@ -78,7 +78,7 @@ Computer Vision · CNNs · OpenCV · ROS
 
 ## 💼 Professional Experience
 
-### 🤖 Agentic AI Developer - UOWN
+### 🤖 Agentic AI Developer — UOWN
 **Feb 2026 – Aug 2026 · Dubai · Remote**
 
 Built an AI-powered vulnerability assessment assistant for approved and authorized domains.
@@ -90,7 +90,7 @@ Built an AI-powered vulnerability assessment assistant for approved and authoriz
 - Exposed the workflow through asynchronous FastAPI endpoints, keeping dense/sparse embedding models loaded across the server lifecycle
 - Generated structured findings and professional PDF security reports
 
-### 🚗 Python Developer - VEGA
+### 🚗 Python Developer — VEGA
 **Feb 2025 – Dec 2025 · Sri Lanka · Remote**
 
 Worked on Level 2 autonomous-driving and driver-assistance capabilities.
@@ -101,7 +101,7 @@ Worked on Level 2 autonomous-driving and driver-assistance capabilities.
 - Built real-time image-processing pipelines and integrated vision-model outputs with ROS components
 - Tested and improved perception accuracy under varying road conditions
 
-### 🧪 Associate Software Engineer - Data and R&D - PickMe
+### 🧪 Associate Software Engineer — Data and R&D — PickMe
 **Jun 2024 – Jan 2025 · Sri Lanka · On-site**
 
 - Developed Python and Go services for research-oriented and production use cases
@@ -109,7 +109,7 @@ Worked on Level 2 autonomous-driving and driver-assistance capabilities.
 - Worked with asynchronous and distributed processing patterns
 - Participated in technical research, experimentation, debugging, and optimization
 
-### 🐍 Python Developer Intern - Octopus BI
+### 🐍 Python Developer Intern — Octopus BI
 **Jan 2024 – May 2024 · Sri Lanka · Remote**
 
 - Developed Python automation and backend components
@@ -118,7 +118,7 @@ Worked on Level 2 autonomous-driving and driver-assistance capabilities.
 
 <br/>
 
-## 🔐 Featured Project - AI-Powered Vulnerability Assessment System
+## 🔐 Featured Project — AI-Powered Vulnerability Assessment System
 
 A scope-controlled multi-agent application that retrieves security knowledge, performs approved vulnerability checks, validates technical evidence, and generates professional reports.
 
@@ -224,20 +224,20 @@ A scope-controlled multi-agent application that retrieves security knowledge, pe
 
 ## 🎓 Education
 
-**BSc (Hons) in Computer Science Engineering** - University of Ruhuna · 2021 – 2025
+**BSc (Hons) in Computer Science Engineering** — University of Ruhuna · 2021 – 2025
 GPA: 3.75 / 4.00
 
 ## 🏆 Certifications
 
-- Deep Learning Specialization - DeepLearning.AI
-- Full-Stack Developer with Django - Meta
-- Kubernetes and Cloud Native Associate - CNCF
-- Software Engineering Role Certification - HackerRank
+- Deep Learning Specialization — DeepLearning.AI
+- Full-Stack Developer with Django — Meta
+- Kubernetes and Cloud Native Associate — CNCF
+- Software Engineering Role Certification — HackerRank
 
 ## 🏅 Awards
 
-- 🥈 1st Runner-Up - CodeRally 6.0 Coding Competition, September 2025
-- 🥉 2nd Runner-Up - Haxtreme 2.0 Coding Competition, October 2023
+- 🥈 1st Runner-Up — CodeRally 6.0 Coding Competition, September 2025
+- 🥉 2nd Runner-Up — Haxtreme 2.0 Coding Competition, October 2023
 
 <br/>
 
